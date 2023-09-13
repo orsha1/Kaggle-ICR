@@ -1,2 +1,6 @@
-tmp
+#
+__pycache__/
+./tmp2
+./tmp
+
 main.ipynb
